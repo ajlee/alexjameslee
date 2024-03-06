@@ -1,0 +1,30 @@
+<footer class="site-footer">
+	{% if footer.menu.enabled %}
+        <div class="footer-col pure-u-1 pure-u-md-1-4">
+            <h3>About</h3>
+            <ul>
+            {% for item in site.menus.footer %}
+                <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+            {% endfor %}
+            </ul>
+        </div>
+        <div class="footer-col pure-u-1 pure-u-md-1-4">
+        </div>
+	</div>
+    {% endif %}
+    <div class="social-nav">
+
+       <a href="https://www.twitter.com/pandemicpgrs"> <div style="margin:auto; margin-bottom:20px; height:20px; width:20px; background-image: url(img/twitter.svg); background-repeat: no-repeat;">   </div></a> 
+    </div>
+	<div class="copyright">
+        <p>
+            &copy;{{ 'now' | date: "%Y" }} {{ site.title }} - All Rights Reserved<br>
+			<a href="{{ "https://app.forestry.io/login" | absolute_url }}">Site Admin</a>
+		</p>
+	</div>
+    <script type="text/javascript" src="{{ "/js/custom.js" | absolute_url }}"></script>
+</footer>
+<!-- Javascript -->
+<script src="{{ "/js/main.js" | absolute_url }}" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+---
+label: Campaigns
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: sub_heading
+  label: sub_heading
+- type: text
+  name: layout
+  label: layout
+  default: page
+  hidden: true
+pages:
+- _campaigns/pandemic-pgrs.md
+- _campaigns/pgrs-are-staff.md

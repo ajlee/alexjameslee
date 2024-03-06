@@ -1,0 +1,33 @@
+title: Pandemic PGRs - solidarity network for postgrad researchers
+short_title: Pandemic PGRs
+description: solidarity network for postgrad researchers
+baseurl:
+url: "https://pgrs.uk"
+permalink: "/:path/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+collections:
+  posts:
+    output: true
+  campaigns:
+    output: true
+    permalink: "/campaigns/:path/"
+# tag_page_layout: tag_page
+# tag_page_dir: tag
+jekyll-archives:
+  enabled: all
+  layout: "archive"
+plugins:
+  - jekyll-menus
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-spaceship

@@ -1,0 +1,76 @@
+/** CUSTOM CSS **/
+.button {
+	@extend button;
+}
+
+
+
+/* Text and font styles
+*/
+.main-content h1, .main-content h2, .main-content h3, .main-content h4 {
+	font-weight:700;
+	padding-top: 2em;
+}
+
+
+
+/* Containers and margins
+*/
+.main-content *:first-child {
+	margin-top:0;
+	padding-top:0;
+}
+
+/* TABLES
+*/
+.main-content table td {
+	padding:3px;
+	border:1px solid #aaa;
+	text-align: center;
+}
+
+/* Navigation
+*/
+
+
+
+@media only screen and (min-width : 768px) {
+
+	/* Mobile menu icon */
+	#menu-icon {
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 767px) {
+
+	#menu-icon {
+		color:#1e405d;
+		position: absolute;
+		top:2rem;
+		right:2rem;
+		cursor: pointer;
+	}
+
+	.main-nav {
+		max-height: 0;
+	}
+
+	.main-nav.expand {
+		max-height: 20em;
+		display: block;
+		transition: 1s;
+	}
+
+	.main-nav.expand .navigation {
+		width: 100%;
+		background-color: #f4f4f4;
+		padding: 1em;
+	}
+	.main-nav.expand li {
+		float:none;
+		display: block;
+	}
+
+}

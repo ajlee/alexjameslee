@@ -1,0 +1,27 @@
+{% comment %}
+    Displays a twitter feed for the twitter user in _data/information.yml
+    as well as the latest 2 documents from the _posts/ collection
+{% endcomment %}
+
+{% if page.show_news %}
+<section class="news-twitter">
+   <div class="container pure-g">
+        <div class="pure-u-1">
+            <div class="content content-narrow">
+                <h2>Latest Music Posts</h2>
+                <ul class="posts">
+                    {% assign musicPosts = site.posts | where: 'categories', 'music' %}
+                    {% for post in musicPosts limit:3 %}
+                    <li>
+                        <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+                        <date>{{ post.date | date_to_string }}</date>
+                        <date>{{ post.sub_heading }}</date>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <a href="{{ "/posts/" | absolute_url }}" class="button-outline pure-button">More News <i class="fa fa-chevron-right"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}

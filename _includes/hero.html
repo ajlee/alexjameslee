@@ -1,0 +1,16 @@
+{% comment %}
+  The hero heading has been removed for now to make things simpler (22/11/2020)
+{% endcomment %}
+
+<header class="plain-header">
+	<div class="content">
+	{% if page.collection == 'people' and page.thumbnail and page.thumbnail != "" %}
+		<div class="profile-photo">
+		</div>
+	{% endif %}
+		<h2>{{ page.title }}</h2>
+		{% if page.sub_heading and page.sub_heading != "" %}
+		<h3>{{ page.sub_heading }}</h3>
+	{% endif %}
+	</div>
+</header>
