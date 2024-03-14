@@ -16,9 +16,10 @@ menu:
             <div class="content content-narrow">
                 <h2>Latest Music Posts</h2>
                 <ul class="posts">
-                    {% assign musicPosts = site.posts | where: 'categories', 'music' %}
+                    {% assign musicPosts = site.posts | where: 'tags', 'music' %}
                     {% for post in musicPosts %}
                     <li>
+                        tags: {{ tags }}
                         <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
                         <date>{{ post.date | date_to_string }}</date>
                         <date>{{ post.sub_heading }}</date>

@@ -4,9 +4,12 @@ docs:
 - title: Home
   url: /
 
+- title: Research
+  url: /research
 
-- title: About
-  url: /about
+- title: CV
+  url: /cv
+
 
 - title: Posts
   url: /posts

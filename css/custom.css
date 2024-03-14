@@ -3,6 +3,24 @@
 	@extend button;
 }
 
+/***
+ HEADERS ***/
+.hero-header {
+    height: 400px;
+    padding-top: 180px;
+}
+.hero-header.about {
+	background-color: #f10;
+	background: no-repeat center/cover url('/img/alex-sofa-2-cropped.jpg');
+}
+
+.hero-header h2, h3 {
+	color: #fff;
+	display: inline-block;
+	background-color: #333;
+	padding:  0.3em 1em;
+	text-shadow: -1px -1px 0 #333, 1px -1px 0 #333, -1px 1px 0 #333, 1px 1px 0 #333;
+}
 
 
 /* Text and font styles
@@ -16,6 +34,9 @@
 
 /* Containers and margins
 */
+body.index .main-content {
+
+}
 .main-content *:first-child {
 	margin-top:0;
 	padding-top:0;

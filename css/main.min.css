@@ -549,10 +549,10 @@ a, h1, h2, h3, h4, li, p {
 }
 .logo {
 	display:inline;
-    margin: 0;
+    margin: ;
 }
 .logo a {
-    margin-top: 7px;
+    margin-top: 24px;
     display: inline;
     width: 100px;
     background-image: url(../img/logo.png);
@@ -568,24 +568,30 @@ a, h1, h2, h3, h4, li, p {
     .logo a {
     background-image: url(../img/logo-retina.png);
     background-size: 143px;
-}
-}.plain-header {
-    background: #f4f4f4;
+}}
+.plain-header, .hero-header {
+    background: #333;
     padding: 40px;
     text-align: center;
-    color:#000;
+    color:#fff;
 }
-.plain-header h2 {
+.plain-header  h2, .hero-header h2. .plain-header  h3, .hero-header h3 {
+    display: inline-block;
+    padding: 0.3em 1em;
+    color: #fff;
+}
+.plain-header h2, .hero-header h2 {
     font-size: 36px;
     font-weight: 700;
     margin: 0;
     font-style: italic;
 }
-.plain-header h3 {
+.plain-header h3, .hero-header h3 {
     font-size: 20px;
     font-weight: 300;
     margin: .5em 0 0;
 }
+
 .content-subhead {
     margin: 50px 0 20px;
     font-weight: 300;
@@ -604,19 +610,16 @@ a, h1, h2, h3, h4, li, p {
     margin-right: auto;
 }
 .site-footer {
-    padding-top: 70px;
-    background-color: #2f2f2f;
-    margin-top: 60px;
+    padding-top: 10px;
+    margin-top: 0;
     font-size: 13px;
     text-align: center;
-    color: hsla(0, 0%, 100%, .4);
 }
 .site-footer a {
     text-decoration: none;
     color: hsla(0, 0%, 100%, .6);
 }
 .site-footer .copyright {
-    background-color: #222;
     min-height: 70px;
 }
 .site-footer .copyright p {
@@ -624,7 +627,7 @@ a, h1, h2, h3, h4, li, p {
     padding: 30px 0;
 }
 .site-footer .copyright p a {
-    color: #fff;
+    color: #333;
 }
 .site-footer .footer-logo {
     max-width: 142px;

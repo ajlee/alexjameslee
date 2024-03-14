@@ -4,11 +4,9 @@ layout: post
 title: Alex and Ziggy at Printers Playhouse
 sub_heading: ''
 tags:
-- blog
+- music
 banner_image: ''
 related_posts: []
-categories: music 
-
 ---
 
 <p>Playing with Ziggy at Printers Playhouse just before I moved away from Eastbourne, supporting the Truth-Seeking Missiles. This was a fab gig. Thanks to Del for the invite, and to John and Stacey who hosted the open mic nights there for putting on great nights with encouragement and support for artists.</p>

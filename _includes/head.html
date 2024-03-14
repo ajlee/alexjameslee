@@ -21,4 +21,7 @@
   <link rel="stylesheet" href="{{ "/css/sharingbuttons.css" | absolute_url }}">
   <link rel="stylesheet" href="{{ "/css/custom.css" | absolute_url }}">
 </head>
-<body>
+
+{% assign pageid = page.name | split: '.' %}
+
+<body class="{{ pageid[0] }}">

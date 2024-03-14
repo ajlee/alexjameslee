@@ -1,16 +1,36 @@
+{% assign pageid = page.name | split: '.' %}
+
 {% comment %}
-  The hero heading has been removed for now to make things simpler (22/11/2020)
+	Full image and no header text
 {% endcomment %}
 
-<header class="plain-header">
-	<div class="content">
-	{% if page.collection == 'people' and page.thumbnail and page.thumbnail != "" %}
-		<div class="profile-photo">
-		</div>
-	{% endif %}
-		<h2>{{ page.title }}</h2>
-		{% if page.sub_heading and page.sub_heading != "" %}
-		<h3>{{ page.sub_heading }}</h3>
-	{% endif %}
-	</div>
+
+{% comment %}
+	TODO: TIDY UP THE CSS
+{% endcomment %}
+
+{% if page.name == "index.md" %}
+<header class="content hero" style="width: 1140px;height: 628px;margin: auto;position: relative">
+	<div style="display: block; top: 0; height: 600px; width: 1140px;background-image:url('/img/brighton-mass-trespass-1.webp');background-size: cover; background-repeat: no-repeat; background-position: center;">
+	<span class="caption" style="position: absolute;bottom:-0.3em; right:0px;"><em>Photo from <a href="https://landscapesoffreedom.wordpress.com/">Landscapes of Freedom</a> on the mass trespass at Pangdean Bottom</em></span>
+</div>
 </header>
+<br/>
+
+{% else %}
+	{% if pageid[0] != "about" %}
+		{% comment %} Header hero {% endcomment %}
+		<header class="plain-header">
+	{% else %}
+		{% comment %} Header plain {% endcomment %}
+		<header class="hero-header {{ pageid[0] }}">
+	{% endif %}
+			<div class="content">
+				<h2>{{ page.title }}</h2>
+				{% if page.sub_heading and page.sub_heading != "" %}
+				<h3>{{ page.sub_heading }}</h3>
+				{% endif %}
+			</div>
+	</header>
+{% endif %}
+

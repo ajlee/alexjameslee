@@ -9,7 +9,8 @@ layout: default
 
 {% assign stripped_content = content | strip_newlines %}
 {% if content and stripped_content != "" %}
-<section class="about">
+<section class="landing">
+	{{ page.name }}
 	<div class="container pure-g">
 		<div class="pure-u-1">
 			<div class="content main-content content-narrow">
@@ -19,6 +20,3 @@ layout: default
 	</div>
 </section>
 {% endif %}
-
-{% include news.html %}
-
