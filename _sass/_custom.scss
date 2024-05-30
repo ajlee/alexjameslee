@@ -1,0 +1,86 @@
+$primary-color: #BCD979;
+$secondary-color: #9DAD6F;
+$third-color: #C3DFE0;
+$fourth-color: #7D6D61;
+$fifth-color: #993333;
+
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+}
+
+
+/**
+ * page headers
+ */
+.site-header {
+  background-color: $secondary-color;
+}
+
+.plain-header, .hero-header {
+    background: #ddd;
+    h1 {
+      color: #333;
+    }
+}
+.main-content {
+  h1, h2, h3, h4 {
+    color: $fifth-color;
+    a {
+      color: inherit;
+    }
+  }
+}
+
+/**
+ * nav
+ */
+
+.main-nav {
+ li a {
+  color:#fff;
+ }
+}
+
+/**
+ * footer
+ */
+
+.site-footer {
+  padding-top:4em;
+  background-color:$secondary-color;
+}
+
+/*** PAGES ***/
+
+/**
+ * home page
+ */
+
+.landing-hero {
+  width: 1140px;
+  height: 628px;
+  margin: auto;
+  position: relative;
+  margin-top:3em;
+}
+
+/* Contact **/
+fieldset {
+  border: 0;
+  padding: 0;
+}
+
+.contact label, .contact input, .contact textarea {
+  float: left;
+  clear: left;
+}
+
+input[type="text"], input[type="email"], input[type="search"],
+input[type="submit"], button, textarea {
+  padding: 1em 1.5em;
+  border: 1px solid #e5e5e5;
+  margin-bottom: 1em;
+}
+
+textarea { width: 100%;  resize: none; }

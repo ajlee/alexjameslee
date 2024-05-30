@@ -1,5 +1,5 @@
 ---
-date: 2024-05-26T08:49:00.000+00:00
+date: 2024-05-16T08:49:00.000+00:00
 layout: post
 title: Discourses and Practices of Elite Rewilding in the UK
 sub_heading: ''
