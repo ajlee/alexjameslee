@@ -4,6 +4,8 @@ description:
 baseurl:
 url: "https://pgrs.uk"
 permalink: "/:path/"
+sass:
+    sass_dir: _sass
 defaults:
   - scope:
       path: ""

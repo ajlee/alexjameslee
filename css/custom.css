@@ -14,7 +14,7 @@
 	background: no-repeat center/cover url('/img/alex-sofa-2-cropped.jpg');
 }
 
-.hero-header h2, h3 {
+h2 strong, .hero-header h2, .hero-header h3 {
 	color: #fff;
 	display: inline-block;
 	background-color: #333;
@@ -23,8 +23,13 @@
 }
 
 
+
 /* Text and font styles
 */
+.normal, .content .normal {
+	font-size: 1em;
+	font-weight: normal;
+}
 .main-content h1, .main-content h2, .main-content h3, .main-content h4 {
 	font-weight:700;
 	padding-top: 2em;
@@ -32,15 +37,18 @@
 
 
 
+
+
 /* Containers and margins
 */
-body.index .main-content {
+body .main-content {
+   margin-top: -1em;
+}
+nav.breadcrumbs {
+	margin-bottom: 0;
+}
 
-}
-.main-content *:first-child {
-	margin-top:0;
-	padding-top:0;
-}
+
 
 /* TABLES
 */
@@ -95,3 +103,48 @@ body.index .main-content {
 	}
 
 }
+
+/* Contact Page
+*/
+.contact-content {
+	padding-top: 1em;
+}
+.contact-content label {
+	font-weight: bold;
+}
+
+/* CV PAGE
+*/
+.cv h3 {
+	margin-right: 100%;
+}
+
+.exp-title {
+	font-weight: bold;
+  text-transform: uppercase;
+  display: inline-block;
+  background-color:
+}
+.exp-title::after {
+	content: ": ";
+}
+
+/* Contact **/
+fieldset {
+	border: 0;
+	padding: 0;
+}
+
+.contact label, .contact input, .contact textarea {
+	float: left;
+  clear: left;
+}
+
+input[type="text"], input[type="email"], input[type="search"],
+input[type="submit"], button, textarea {
+  padding: 1em 1.5em;
+  border: 1px solid #e5e5e5;
+  margin-bottom: 1em;
+}
+
+textarea { width: 100%;  resize: none; }

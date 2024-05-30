@@ -1,14 +1,20 @@
 ---
-title: Contact
-date: 2017-11-01T03:00:00.000+00:00
-banner_image: ''
-heading: Contact Us
-publish_date: 2017-12-01T04:00:00.000+00:00
-show_staff: true
+title: Contact Alex Lee
+layout: contact
+sub_heading: ''
+description: 
+publish_date: '2024-03-06T03:00:00.000+00:00'
 menu:
   navigation:
-    identifier: _contact
-    weight: 5
+    identifier: _cv
+    weight: 
 
 ---
+
+## Contact Alex
+
+If you want to get in touch you can contact me using the form below. 
+
+I regularly check my messages on Mastodon so if you want to contact me on social media, this is the best way to do so. 
+
 
