@@ -11,6 +11,7 @@ A simple microsite with some static pages, a blog, and a contact page
 - Edit contact form
 - Get tina.io working
 - Services page
-- Mobile testing
+- Mobile testing 
+- Menu on mobile 
 
 
