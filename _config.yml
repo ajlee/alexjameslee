@@ -2,7 +2,7 @@ title: Alexander Lee, Academic in Environmental Sociology (and musician)
 short_title: Alex Lee
 description:
 baseurl:
-url: "https://pgrs.uk"
+url: "https://ajlee.github.io/alexjameslee/"
 permalink: "/:path/"
 sass:
     sass_dir: _sass
