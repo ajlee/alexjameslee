@@ -563,11 +563,6 @@ a, h1, h2, h3, h4, li, p {
     text-indent: -9999px;
     overflow: hidden;
 }
-@media {
-    .logo a {
-    background-image: url(../img/logo-retina.png);
-    background-size: 143px;
-}}
 .plain-header, .hero-header {
     background: #333;
     padding: 40px;
