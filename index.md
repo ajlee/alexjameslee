@@ -17,3 +17,7 @@ menu:
     weight: 1
 
 ---
+
+<h2 class="landing-headline"><strong>Environmental politics research in the UK</strong></h2>
+<span class="caption"><em>Photo from <a href="https://landscapesoffreedom.wordpress.com/">Landscapes of Freedom</a> on the mass trespass at Pangdean Bottom</em></span>
+&nbsp;

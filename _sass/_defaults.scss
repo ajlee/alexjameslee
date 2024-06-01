@@ -562,7 +562,6 @@ a, h1, h2, h3, h4, li, p {
     height: 56px;
     text-indent: -9999px;
     overflow: hidden;
-    float: left;
 }
 @media {
     .logo a {
@@ -756,15 +755,6 @@ nav ul {
 nav ul a {
     text-decoration: none;
 }
-.main-nav ul {
-    float: right;
-    margin-top: 14px;
-}
-.main-nav li {
-    float: left;
-    margin: 0;
-    margin-left: 30px;
-}
 .main-nav li a {
     color: #061828;
     padding: 3px 12px;
@@ -780,11 +770,7 @@ nav ul a {
     margin-right: -10px;
     width: 11px;
 }
-@media (max-width:768px) {
-    .main-nav {
-    display: none;
-}
-}.side-nav {
+.side-nav {
     margin-top: 5px;
     padding: 20px 20px 20px 0;
 }
@@ -827,14 +813,13 @@ nav ul a {
     list-style-type: none;
 }
 .navigation li {
-    float: left;
+    display: inline-block;
     position: relative;
     list-style: none;
 }
 .navigation li a {
     color: #333;
     font-weight: 700;
-    font-size: 17px;
     border-radius: 0;
     padding: 5px;
     display: block;

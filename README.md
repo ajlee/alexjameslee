@@ -4,8 +4,6 @@ A simple microsite with some static pages, a blog, and a contact page
 
 # TODO
 
-- Move css to scss
-- Delete unused pages
 - HTTPS
 - Fix links on research page
 - Edit contact form
@@ -13,5 +11,5 @@ A simple microsite with some static pages, a blog, and a contact page
 - Services page
 - Mobile testing 
 - Menu on mobile 
-
+- Make homepage text editable
 
