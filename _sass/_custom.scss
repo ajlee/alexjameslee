@@ -177,8 +177,8 @@ h1, h2, h3, h4 {
 
   // desktop
   .landing-hero {
-    width: 1140px;
-    min-height: 750px;
+    max-width: 980px;
+    // min-height: 750px;
     margin: auto;
     position: relative;
     margin-top:3em;
