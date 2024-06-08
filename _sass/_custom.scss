@@ -172,7 +172,7 @@ h1, h2, h3, h4 {
   // desktop
   .landing-hero {
     width: 1140px;
-    height: 628px;
+    min-height: 900px;
     margin: auto;
     position: relative;
     margin-top:3em;
@@ -181,8 +181,8 @@ h1, h2, h3, h4 {
 #hero-image {
   display: block;
   top: 0;
-  height: 600px;
-  width: 1140px;
+  max-height: 885px;
+  max-width: 1140px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
