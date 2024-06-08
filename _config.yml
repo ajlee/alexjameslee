@@ -2,7 +2,7 @@ title: Alex James Lee. Academic Research in Environmental Politics.
 short_title: Alex Lee
 description:
 baseurl:
-url: "http://alexjameslee.co.uk"
+url: "https://alexjameslee.co.uk"
 permalink: "/:path/"
 sass:
     sass_dir: _sass
