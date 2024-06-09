@@ -92,6 +92,11 @@ h1, h2, h3, h4 {
 
 @media only screen and (min-width : 768px) {
 
+  .nav-container {
+    width: $max-content-width;
+    padding: 0 1em;
+  }
+
   /* Mobile menu icon */
   #menu-icon {
     display: none;
