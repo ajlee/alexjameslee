@@ -210,6 +210,7 @@ h1, h2, h3, h4 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  object-fit: fill;
 }
 @media only screen and (min-width: 767px) and (max-width: 980px) {
   .landing, .landing-hero {
