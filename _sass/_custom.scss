@@ -4,12 +4,16 @@ $third-color: #C3DFE0;
 $fourth-color: #7D6D61;
 $fifth-color: #993333;
 
+$max-content-width: 960px;
+
 // fonts
 $menu-size: 24px;
 
 //positioning
 $logo-width: 143px;
 $mobile-logo-left:24px;
+
+
 
 /**
  * text
@@ -60,7 +64,7 @@ h1, h2, h3, h4 {
 }
 
 .main-content {
-  padding: 0 4em;
+  padding: 0;
 
   h1, h2, h3, h4 {
     color: $fifth-color;
@@ -177,11 +181,14 @@ h1, h2, h3, h4 {
 
   // desktop
   .landing-hero {
-    max-width: 980px;
+    max-width: $max-content-width;
     // min-height: 750px;
     margin: auto;
     position: relative;
     margin-top:3em;
+  }
+  .landing {
+    max-width: $max-content-width;
   }
 }
 #hero-image {
@@ -193,6 +200,12 @@ h1, h2, h3, h4 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+@media only screen and (min-width: 767px) and (max-width: 980px) {
+  .landing, .landing-hero {
+    padding: 2em 0;
+    max-width: 100%;
+  }
 }
 @media only screen and (max-width: 767px) {
   #hero-image {
