@@ -29,6 +29,7 @@ menu:
 <h2>Bus to Yorkshire</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QgvVKH8HprA?si=WjrXOqcgXa7gP7ec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<h1>Other Videos</h1>
 <h2>Shit I Forgot Me Lunch!</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KVu12BufV8s?si=9aruCyWYx9_gFnl3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
