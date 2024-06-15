@@ -10,6 +10,7 @@ $menu-size: 24px;
 //positioning
 $logo-width: 143px;
 $mobile-logo-left:24px;
+$content-spacing-ipad: 0 2em;
 
 // screen sizes
 $desktop-size: 980px;
@@ -67,8 +68,8 @@ h1, h2, h3, h4 {
  * All content spacing
  */
 @media only screen and (min-width: 767px) and (max-width: 980px) {
-  .main-content {
-    padding: 0 2em;
+  .main-content, .contact-content {
+    padding: $content-spacing-ipad;
   }
 }
 
@@ -227,7 +228,7 @@ h1, h2, h3, h4 {
 }
 @media only screen and (min-width: 767px) and (max-width: 980px) {
   .landing, .landing-hero {
-    padding: 0 2em;
+    padding: $content-spacing-ipad;
     max-width: 100%;
   }
 }
