@@ -105,6 +105,9 @@ h1, h2, h3, h4 {
 }
 
 @media only screen and (min-width : 768px) {
+  .main-nav li {
+    padding: 0 0.2em;
+  }
 
   .nav-container {
     width: $max-content-width;
@@ -148,17 +151,6 @@ h1, h2, h3, h4 {
     margin:0;
   }
 
-  // deleted
-  #menu-icon {
-    font-size: $menu-size;
-    color:#000;
-    font-weight: bold;
-    position: absolute;
-    top:2rem;
-    right:2rem;
-    cursor: pointer;
-  }
-
   .main-nav {
     display: block;
   }
@@ -181,6 +173,19 @@ h1, h2, h3, h4 {
   .main-nav :first-of-type {
     margin-left:0;
   }
+
+  /**
+    // deleted
+    #menu-icon {
+      font-size: $menu-size;
+      color:#000;
+      font-weight: bold;
+      position: absolute;
+      top:2rem;
+      right:2rem;
+      cursor: pointer;
+    }
+  **/
 }
 
 
