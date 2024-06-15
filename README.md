@@ -15,3 +15,4 @@ A simple microsite with some static pages, a blog, and a contact page
 - current page nav highlight not working
 - make logo an svg
 - Mobile menu (make it like this across all devices?)
+- Music Social Media Links, and mention Alex Eel
