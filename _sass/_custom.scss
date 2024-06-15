@@ -184,14 +184,6 @@ h1, h2, h3, h4 {
 /**
  * home page
  */
-
-.landing {
-  max-width: $max-content-width;
-  margin: auto;
-  padding: 2em 1em 2em 0;
-}
-
-
 @media only screen and (min-width: 768px) {
 
   // desktop
@@ -201,6 +193,11 @@ h1, h2, h3, h4 {
     margin: auto;
     position: relative;
     margin-top: 2em;
+  }
+  .landing {
+    max-width: $max-content-width;
+    margin: auto;
+    padding: 0 1em 0 1em;
   }
 }
 #hero-image {
@@ -216,7 +213,7 @@ h1, h2, h3, h4 {
 }
 @media only screen and (min-width: 767px) and (max-width: 980px) {
   .landing, .landing-hero {
-    padding: 2em 0;
+    padding: 0 2em;
     max-width: 100%;
   }
 }
