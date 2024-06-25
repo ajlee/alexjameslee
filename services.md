@@ -20,7 +20,7 @@ I live in Darlington and am open to the possibility of teaching casual sessions 
 ## Drupal Services
 
 Previous to my PhD, I worked in IT for many years, and can still provide some freelance services.
-I have supported a number of clients with Drupal website development. Drupal is very flexible but is generally suited to medium to large sized projects. I worked with Friends of the Earth (England Wales and Northern Ireland), Friends of the Earth Europe, First Class Holidays, DR Agency, and Good Food Greater Manchester.
+I have supported a number of clients with Drupal website development. Drupal is very flexible but is generally suited to medium to large sized projects. I worked with Friends of the Earth (England Wales and Northern Ireland), Friends of the Earth Europe, First Class Holidays, DR Agency, and Good Food Greater Manchester. Currently not looking for work in this area but post-PhD I may be interested. 
 
 ## Microsites
 
