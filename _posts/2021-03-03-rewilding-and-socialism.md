@@ -174,3 +174,5 @@ As one visionary farmer commented, we should not be visiting national parks, we 
 15. https://viacampesina.org/en/you-are-what-you-eat/
 
 16. https://edepot.wur.nl/468095
+
+(Originally posted on [Anticapitalist Resistance](https://anticapitalistresistance.org/making-rewilding-part-of-a-socialist-future/))
