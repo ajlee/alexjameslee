@@ -10,7 +10,7 @@ $menu-size: 24px;
 //positioning
 $logo-width: 143px;
 $mobile-logo-left:24px;
-$nav-left-margin-mobile: 2em;
+$nav-left-margin: 2em;
 $content-spacing-ipad: 0 2em;
 
 
@@ -36,7 +36,7 @@ h1, h2, h3, h4 {
  * page headers
  */
 .site-header {
-  padding: 1em $nav-left-margin-mobile;
+  padding: 1em $nav-left-margin;
   background-color: $secondary-color;
 }
 
@@ -142,7 +142,7 @@ h1, h2, h3, h4 {
   .main-nav {
     display:inline-block;
     margin-left:143px;
-    padding-left:$nav-left-margin-mobile;
+    padding-left:$nav-left-margin;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -163,7 +163,7 @@ h1, h2, h3, h4 {
 
   .logo-span {
     display: block;
-    padding-left:$nav-left-margin-mobile; // same as the margin in the bullet menu dropdown
+    padding-left:$mobile-logo-left; // same as the margin in the bullet menu dropdown
   }
 
 
@@ -173,7 +173,7 @@ h1, h2, h3, h4 {
     height: auto;
     max-height: auto;
     margin-top:0;
-    margin-left: -$
+    margin-left: -$nav-left-margin;
     padding: 1em 1em 1em $mobile-logo-left;
     background-color: $fourth-color;
     font-size: 0.7em;
