@@ -13,10 +13,6 @@ menu:
 
  
 
-## Casual Teaching
-
-I live in Darlington and am open to the possibility of teaching casual sessions at universities in the region. I have taught philosophy and criminology, and would be open to teaching in geography and social science depending on the module. I would also be interested in teaching in computing since I worked for a long time in this area.  
-
 ## Drupal Services
 
 Previous to my PhD, I worked in IT for many years, and can still provide some freelance services.
@@ -33,6 +29,10 @@ Prior to working on Drupal sites, I worked as in e-learning, and for six years I
 ## General IT Support
 
 I have also on occasion provided general IT support and training. I currently do occasional work for Vegetarian for Life maintaining their computers, databases, backups, and providing general advice. 
+
+## Associate Lecturing
+
+I live in Darlington and am open to the possibility of teaching casual sessions at universities in the region. I have taught philosophy and criminology, and would be open to teaching in geography and social science depending on the module. I would also be interested in teaching in computing since I worked for a long time in this area.  
 
 ## Proofreading
 

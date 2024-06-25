@@ -1,5 +1,5 @@
 ---
-title: Music
+title: Music (as Alex Eel)
 layout: page
 sub_heading: ''
 description: 
@@ -10,7 +10,7 @@ menu:
     weight: 
 
 ---
-<h1>Upcoming Singles</h1>
+<h1>Upcoming Singles (Hopefully)</h1>
 
 <p>A demo recorded at home... hopefully to be finished in the near future!</p>
 

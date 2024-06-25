@@ -9,7 +9,7 @@ $menu-size: 24px;
 
 //positioning
 $logo-width: 143px;
-$mobile-logo-left:24px;
+$mobile-logo-left:12px;
 $nav-left-margin: 2em;
 $content-spacing-ipad: 0 2em;
 
@@ -134,10 +134,6 @@ h1, h2, h3, h4 {
   }
 
 }
-
-//
-// mobile nav
-//
 @media only screen and (min-width: 768px) {
   .main-nav {
     display:inline-block;
@@ -145,10 +141,16 @@ h1, h2, h3, h4 {
     padding-left:$nav-left-margin;
   }
 }
+
+
+//
+// mobile nav
+//
 @media only screen and (max-width: 767px) {
 
   .nav-container {
     margin:0;
+    text-align: center;
   }
 
   .main-nav {
@@ -162,19 +164,13 @@ h1, h2, h3, h4 {
     display: block;
   }
 
-  .logo-span {
-    display: block;
-    padding-left:$mobile-logo-left; // same as the margin in the bullet menu dropdown
-  }
-
-
 
   .main-nav .navigation {
     min-height: 3em;
     height: auto;
     max-height: auto;
     margin-top:0;
-    padding: 1em 1em 1em $mobile-logo-left;
+    padding: 1em $mobile-logo-left;
     background-color: $fourth-color;
     font-size: 0.7em;
   }
