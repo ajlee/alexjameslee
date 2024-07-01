@@ -1,7 +1,7 @@
 ---
 date: 2024-05-28T08:49:00.000+00:00
 layout: post
-title: Making Connections at Wageningen University
+title: Growing My Academic Network With The SCDTP Overseas Institutional Visit Funding
 sub_heading: ''
 tags: research
 banner_image: ''
