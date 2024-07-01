@@ -1,5 +1,5 @@
 ---
-title: IT Services and Casual Teaching
+title: IT Services and Websites for Academics
 layout: page
 sub_heading: ''
 description: 
@@ -18,7 +18,7 @@ menu:
 Previous to my PhD, I worked in IT for many years, and can still provide some freelance services.
 I have supported a number of clients with Drupal website development. Drupal is very flexible but is generally suited to medium to large sized projects. I worked with Friends of the Earth (England Wales and Northern Ireland), Friends of the Earth Europe, First Class Holidays, DR Agency, and Good Food Greater Manchester. Currently not looking for work in this area but post-PhD I may be interested. 
 
-## Microsites
+## Microsites for Academics
 
 While Drupal is great for bigger projects, I am also interested in creating minimalist microsites such as this. I also created the site for (pgrs.uk)[http://pgrs.uk]. Both of these sites use Jekyll because they require no database, they are hosted free on Github. I would be happy to provide other academics with personal microsites for reasonable fees, so please get in touch if you are interested.
 

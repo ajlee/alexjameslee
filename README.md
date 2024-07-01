@@ -5,7 +5,6 @@ A simple microsite with some static pages, a blog, and a contact page
 # TODO
 
 - HTTPS
-- Fix links on research page
 - Edit contact form
 - Get tina.io working
 - Services page
@@ -16,3 +15,6 @@ A simple microsite with some static pages, a blog, and a contact page
 - make logo an svg
 - Mobile menu (make it like this across all devices?)
 - Music Social Media Links, and mention Alex Eel
+- Move to Alexander J Lee?
+- Send article to SCDTP
+
