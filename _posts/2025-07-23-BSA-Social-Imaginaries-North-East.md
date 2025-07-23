@@ -1,11 +1,21 @@
-/*
+<!--
 Link to photos
 Add ben and others
 Photo of film
 add abstracts
 link to funding
 create signal group
- */*
+ */*-->
+---
+date: 2025-02-24T08:49:00.000+00:00
+layout: post
+title: Reflecting on the Reimagining Sociological Imaginaries North East Conference 2025 (funded by the British Sociology Association)
+sub_heading: ''
+tags: blog
+banner_image: ''
+related_posts: []
+---
+
 Back in December 2024 I saw an email from the British Sociology Association, offering £1000 for any PGRs who wanted to organise a regional conference. I thought, "OK why not?" It seemed like a good idea to meet other academics in and around Newcastle and thought it would help with my CV to say I'd organised a conference. 
 
 So it happened on the 17th July 2025, and it was fab! I'm still kinda buzzing about it. And importantly… no technical disasters happened during the conference! Of course, the biggest pain was trying to deal with Northumbria University finance who couldn't tell us who was able to submit an invoice to the BSA. 
