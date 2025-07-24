@@ -1,7 +1,7 @@
 ---
 date: 2025-02-24T08:49:00.000+00:00
 layout: post
-title: Reflecting on the Reimagining Sociological Imaginaries North East Conference 2025 (funded by the British Sociology Association)
+title: Reflecting on the Reimagining Sociological Imaginaries North East Conference 2025
 sub_heading: ''
 tags: blog
 banner_image: ''
