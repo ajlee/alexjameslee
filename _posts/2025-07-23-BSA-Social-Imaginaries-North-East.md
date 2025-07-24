@@ -1,10 +1,5 @@
 <!--
-Link to photos
 Add ben and others
-Photo of film
-add abstracts
-link to funding
-create signal group
  */*-->
 ---
 date: 2025-02-24T08:49:00.000+00:00
@@ -16,10 +11,10 @@ banner_image: ''
 related_posts: []
 ---
 
-<img src="../img/bsa_logo.png">
+<a href="https://www.britsoc.co.uk/"><img src="../img/bsa_logo.png" alt="British Sociological Association logo"></a>
 
 
-Back in December 2024 I saw an email from the British Sociology Association, offering £1000 for any PGRs who wanted to organise a regional conference. I thought, "OK why not?" It seemed like a good idea to meet other academics in and around Newcastle and thought it would help with my CV to say I'd organised a conference. 
+Back in December 2024 I saw an email from the British Sociology Association, <a href="https://www.britsoc.co.uk/opportunities/pgf-regional-event-funding/">offering £1000 for any PGRs who wanted to organise a regional conference. I thought, "OK why not?" It seemed like a good idea to meet other academics in and around Newcastle and thought it would help with my CV to say I'd organised a conference. 
 
 So it happened on the 17th July 2025, and it was fab! I'm still kinda buzzing about it. And importantly… no technical disasters happened during the conference! Of course, the biggest pain was trying to deal with Northumbria University finance who couldn't tell us who was able to submit an invoice to the BSA. 
 
@@ -31,7 +26,9 @@ On the day, I was really happy that, not only did every presentation talk about 
 
 We also had a film screening of 100 People, which was fascinating. It tells the story of Sheidfield, an area in Newcastle with a very strong community, told through the conversations of 100 different local people who interviewed each other. These ranged from people who still remembered details of the area from 70 years ago, to young children telling bad jokes and talking about the need for love in the community. But the film also raised many interesting questions. In these 100 interviews, how did they find the themes to pull out? The director ____ was on a panel with some members of the community at the end, and I believe someone asked in the Q&A and that it was a community process. At the pub afterwards, I asked the director about what they were doing with all the interviews, because it was only a ___ hour film and if there were 100 interviews then there was perhaps 50 - 100 hours of film. Apparently it is a community coding process, where members of the community will get together once a week to decide how to code and organise the data. Which sounds like some people's idea of a methodological nightmare but sounds fascinating to me!
 
-<img src="../img/bsa-north-east-sociological-imaginaries-conference-2025.jpg" alt="photo of the attendees of the BSA social imaginaries conference">
+We hope that next year some of the attendees will be inspired to apply for funding from the BSA to put another PGR conference on! <a href="https://www.britsoc.co.uk/opportunities/pgf-regional-event-funding/">Link for PGR event funding.</a>
+
+<img src="../img/bsa-north-east-sociological-imaginaries-conference-2025-and-online.jpg" alt="photo of the attendees of the BSA social imaginaries conference">
 
 Click to see <a href="https://drive.google.com/drive/folders/1ZcXCbRLqw6OmmqOTaLqg8eu14_urSo6j?usp=share_link">more photos</a>
 
