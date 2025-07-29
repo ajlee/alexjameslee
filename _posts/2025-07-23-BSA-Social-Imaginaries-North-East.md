@@ -11,7 +11,7 @@ related_posts: []
 <a href="https://www.britsoc.co.uk/"><img src="../img/bsa_logo.png" alt="British Sociological Association logo"></a>
 
 
-Back in December 2024 I saw an email from the British Sociology Association, <a href="https://www.britsoc.co.uk/opportunities/pgf-regional-event-funding/">offering £1000 for any PGRs who wanted to organise a regional conference. I thought, "OK why not?" It seemed like a good idea to meet other academics in and around Newcastle and thought it would help with my CV to say I'd organised a conference. 
+Back in December 2024 I saw an email from the British Sociology Association, <a href="https://www.britsoc.co.uk/opportunities/pgf-regional-event-funding/">offering £1000 for any PGRs who wanted to organise a regional conference</a>. I thought, "OK why not?" It seemed like a good idea to meet other academics in and around Newcastle and thought it would help with my CV to say I'd organised a conference. 
 
 So it happened on the 17th July 2025, and it was fab! I'm still kinda buzzing about it. And importantly… no technical disasters happened during the conference! Of course, the biggest pain was trying to deal with Northumbria University finance who couldn't tell us who was able to submit an invoice to the BSA. 
 
