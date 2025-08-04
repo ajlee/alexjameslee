@@ -8,9 +8,6 @@ banner_image: ''
 related_posts: []
 ---
 
-<a href="https://www.britsoc.co.uk/"><img src="../img/bsa_logo.png" alt="British Sociological Association logo"></a>
-
-
 Back in December 2024 I saw an email from the British Sociology Association, <a href="https://www.britsoc.co.uk/opportunities/pgf-regional-event-funding/">offering £1000 for any PGRs who wanted to organise a regional conference</a>. I thought, "OK why not?" It seemed like a good idea to meet other academics in and around Newcastle and thought it would help with my CV to say I'd organised a conference. 
 
 So it happened on the 17th July 2025, and it was fab! I'm still kinda buzzing about it. And importantly… no technical disasters happened during the conference! Of course, the biggest pain was trying to deal with Northumbria University finance who couldn't tell us who was able to submit an invoice to the BSA. 
@@ -25,7 +22,11 @@ We also had a film screening of 100 People, which was fascinating. It tells the 
 
 We hope that next year some of the attendees will be inspired to apply for funding from the BSA to put another PGR conference on! <a href="https://www.britsoc.co.uk/opportunities/pgf-regional-event-funding/">Link for PGR event funding.</a>
 
-<img src="../img/bsa-north-east-sociological-imaginaries-conference-2025-and-online.jpg" alt="photo of the attendees of the BSA social imaginaries conference">
+<a href="https://www.britsoc.co.uk/"><img src="../img/bsa_logo.png" alt="British Sociological Association logo" style="width:60px;"></a>
+
+
+
+<img src="../img/bsa-north-east-sociological-imaginaries-conference-2025.jpg" alt="photo of the attendees of the BSA social imaginaries conference">
 
 Click to see <a href="https://drive.google.com/drive/folders/1ZcXCbRLqw6OmmqOTaLqg8eu14_urSo6j?usp=share_link">more photos</a>
 
@@ -35,12 +36,12 @@ Click to see <a href="https://drive.google.com/drive/folders/1ZcXCbRLqw6OmmqOTaL
 <strong>“You won’t have me”: (Central) Mediterranean solidarities, futures, and resistances.</strong>
 Throughout history, solidarity and mutual aid groups and networks have been organising to  support migrant struggles from the consequences of organised abandonment (Gilmore, 2008) and necropolitical policies (Mbembe, 2017). In this context, this project contributes to the interdisciplinary conversations on contemporary solidarities with people on the move in the (Central) Mediterranean region by exploring three main pillars: Mediterranean solidarities, Mediterranean futures, and Mediterranean resistances to criminalisation and repression. Through interviews and multi-sited ethnography in Morocco, Spain, Italy, Tunisia, and at sea, this project examines how solidarity is practiced and understood in the region, and how these world-building practices allow us to imagine alternative modes of living.
 
-<img src="../img/bsa_ne_pat.jpg">
-
 <h3>Laura Jane Machin - Manchester Metropolitan University</h3>
 <strong>In terms of responses to crimes of sexual violence, procedural justice is failing women: An exploration of social and systemic harms to inform a model of transformative reform. </strong>
 Despite a steady rise in reports of male-perpetrated sexual violence within the criminal  justice  system of England and Wales over the last decade, the associated conviction rate remains at less than 1% (Office for National Statistics, 2023). 61% of cases are discontinued at the behest of the victim-survivor (Victims Commissioner, 2024). This disparity and lack of confidence in the pursuit of justice suggests that current provisions are unfit for purpose.
 This further indicates a need for transformative reform in the response to a criminal behaviour that disproportionately effects women. The question being, however, what should this look like? This study has utilised a Zemiological-Feminist theoretical framework to examine these systemic failings. 25 narrative or semi-structured interviews (dependent on type of participant) have been conducted with Victim-Survivors and Sexual Violence Support Service Practitioners who have engaged with the prosecution process to a greater or lesser extent. The samples were intersectional, and the findings reflected such. The aim being to identify criminal justice principles and responses that are outmoded and unsuitable, inflicting further harm upon those whom which they are designed to protect, and creating barriers to the pursuit of justice. Pertinent themes have been drawn from the collected and analysed data to inform a ‘Better Response/Harm Reduction for Victim-Survivors’ model which reflects the need for intersectional thinking. This will ultimately be disseminated amongst interested stakeholders (3rd sector, local government and community lead initiatives with whom I have spent considerable time building relationships), in the hope that it will inform gender-based violence discourse and policy discussions.
+
+<img src="../img/bsa_ne_pat.jpeg">
 
 <h3>Khyati Jain - University of Nottingham</h3>
 <strong>Marketisation of non-traditional international schools in India: from the perspective of local parents as customers. </strong>
@@ -61,7 +62,7 @@ Using insights from early engagement across ICB leaders, local VCSEs, and peer l
 Ultimately, the talk reflects on how embedding sociological reflexivity within system transformation work can disrupt tokenistic co-production and move toward more equitable, reflective, and impactful partnerships. It speaks to wider questions of legitimacy, structure,  and change, calling for a reframing of evidence practices that centre people, relationships, and community-led knowledge.
 *Assura plc is a UK-based property company specialising in general practitioner and primary healthcare buildings, with over 600 sites across the country. Listed on the London Stock Exchange and part of the FTSE 250 Index, it is funding the Assura project as part of its corporate social responsibility (CSR) commitments.
 
-<img src="bsa_ne_alex2.jpeg">
+<img src="../img/bsa_ne_alex2.jpeg" alt="alex lee presenting on rewilding">
 
 <h3>Ecaterina Rotaru – Northumbria University</h3>
 <strong>Overlooked and Undiagnosed: How ignoring overlapping identities, delays ADHD diagnosis in women – and what this means for society. </strong>
@@ -178,4 +179,4 @@ In a world that loves a story of individual heroes and successes - as writer, hi
 We hope that both the film and the ensuing discussion will help fuel and refresh our sociological imaginations in a way that’s grounded in the reality of life in the community we’re gathering in.
 You can find out more about 100 People here: <a href="https://www.iamandrewwilson.co.uk/100-people">https://www.iamandrewwilson.co.uk/100-people</a>.
 
-<img src="../img/bsa_ne_panel.jpeg">
+<img src="../img/100_people_panel.jpeg">
