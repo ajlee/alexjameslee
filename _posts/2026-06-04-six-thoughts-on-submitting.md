@@ -7,7 +7,8 @@ tags: blog
 banner_image: ''
 related_posts: []
 ---
-<p>I submitted my PhD about 10 weeks ago now. I’m still waiting for my viva. I’ve been doing this thing for quite some time now so I have could write a lot! But I’m gonna try and just write some bullet points, which maybe I can expand in other posts.</p>
+<p>I submitted my PhD about 10 weeks ago now. It was entitled <strong><em>"Power, inequity, and socio-ecological
+transformation in UK rewilding"</em></strong>. I’m still waiting for my viva. I’ve been doing this thing for quite some time now so I have could write a lot! But I’m gonna try and just write some bullet points, which maybe I can expand in other posts.</p>
 <ol>
 	<li>Well, fuck. I've submitted. That was my first thought.</li>
 	<li>The second was: that seemed to be way harder than it needed to be. Don’t get me wrong, doing all that work was never going to be easy. It required a lot of work, and writing 80,000 words of academic quality is hard... but it didn’t need to be quite <em>that hard</em> either. Most of the major difficulties were from lack of understanding and confidence rather than anything intrinsically complex about the process. </li>
